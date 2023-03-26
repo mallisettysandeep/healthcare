@@ -1,4 +1,5 @@
 ﻿# healthcare
+ open link: file:///C:/Users/Venkatesh/OneDrive/Desktop/healthcare/components/index.html
 A health check app can perform a wide range of functions, depending on its features and capabilities. Some of the most common functions of a health check app include:
 
 Tracking physical activities: Health check apps can track and monitor daily physical activities, such as steps taken, distance traveled, and calories burned. They may also provide insights into exercise routines and progress.
