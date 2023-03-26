@@ -1,4 +1,5 @@
 ﻿# open link: file:///C:/Users/Venkatesh/OneDrive/Desktop/healthcare/components/index.html
+ #healthcare website screenshot https://drive.google.com/drive/folders/10MVFYSZvoxpk02CFjQPZI8OocdisNI5c?usp=share_link
  
 A health check app can perform a wide range of functions, depending on its features and capabilities. Some of the most common functions of a health check app include:
 
